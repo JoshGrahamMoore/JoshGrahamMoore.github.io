@@ -8,5 +8,11 @@
     <image:image>
       <image:loc>http://jgm-design.co.uk/images/joshmoore-crop-u102.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://jgm-design.co.uk/images/twitter_social_icon_square_white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jgm-design.co.uk/images/insta.png</image:loc>
+    </image:image>
   </url>
 </urlset>
